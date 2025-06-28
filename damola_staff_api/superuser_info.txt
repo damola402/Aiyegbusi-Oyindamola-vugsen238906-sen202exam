@@ -1,0 +1,4 @@
+
+# Superuser Info (for testing purpose only)
+Email: ooskitooski0808@gmail.com
+Password: Echidnas@0808
